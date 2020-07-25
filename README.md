@@ -21,4 +21,6 @@
 
 9. Prices of tickets to events and correlation to city. Whether city is growing or doing well. # of bars or events, bars per capita. 
 
-10. 
+10. Assisted living homes/nurses evaluation. Possibly care vs price. Ideas for people to show their inlaws that living homes are better than staying with them. 
+
+11. Effect on stock prices when theres a merger/acquisition. 
