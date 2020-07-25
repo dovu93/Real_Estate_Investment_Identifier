@@ -9,4 +9,14 @@
 
 3. Cyrpto idea - basic analysis of the times and days where the the prices go up and down, a 24 hour trend.
 
-4. 
+4. Politics - presidential annoucements/tweets and what happens to the market. tweets vs market reaction
+
+5. Quanitative Analysis - what we've been doing in office hours.
+
+6. Alpaca idea - import/export
+
+7. Real Estate Market prices compared to largest industry in metro area. 
+
+8. Anticipated growth rate vs real estate prices. Possibly using the census intervals. 
+
+9. 
