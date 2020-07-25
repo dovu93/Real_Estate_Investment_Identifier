@@ -19,4 +19,6 @@
 
 8. Anticipated growth rate vs real estate prices. Possibly using the census intervals. 
 
-9. 
+9. Prices of tickets to events and correlation to city. Whether city is growing or doing well. # of bars or events, bars per capita. 
+
+10. 
