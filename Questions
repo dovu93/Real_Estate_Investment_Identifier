@@ -1,0 +1,32 @@
+Questions we want to answer
+
+Zip Codes: api zip code http://www.zipcodeapi.com/rest/<api_key>/distance.<format>/<zip_code1>/<zip_code2>/<units>
+
+ - Which zip code over the past years is the best investment? IN HOuston 
+    - What data do we need for this?
+      Pricing Data
+      
+    
+    
+ - If you invested x amount, what type of return would you expect?
+    - What data do we need for this?
+
+ - 
+ 
+ 
+ 
+ Datafiles we have
+ 
+  - Test Results by Schools
+  
+  - All types of taxes by zip code, 2010 - 2017
+  
+  - prices by zip code, from 2017 onward.
+  
+  - county to zipcodes
+  
+  - inventory core metrics - zillow, texas
+  
+  - inventory hotness metrics - zillow, texas
+  
+  - 
