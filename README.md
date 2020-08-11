@@ -21,9 +21,9 @@
 
 - We gathered the top 10 zip codes with an increase over time in price/sqft, amount of permits, changes in percent by listing price and income tax. We've concluded that 77003, 77019 and 77007 should be among our highest returns on investments. 
 
-![Permits](resources/Images/top_10_permits.png)
+![Permits](resources/Images/top_10_permit.png)
 
-![Pct Change](resources/Images/top_10_pct_change.png)
+![Pct Change](resources/Images/top_10_pct.png)
 
 ![Income Tax](resources/Images/top_10_tax.png)
 
