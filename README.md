@@ -2,7 +2,7 @@
 
 ## Houston Real Estate Investment Analysis
 
-![alt text](/Resources/Images/heatmap_past/png)
+![alt text](\Resources\Images\heatmap_past.png)
 
 ### Objective
 
