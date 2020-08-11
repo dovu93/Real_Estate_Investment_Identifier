@@ -36,7 +36,7 @@
 
 - Our analysis disproved our hypothesis. The top 10 zip codes with the best return on your investment is shown below. Along with a heat map of where the zip codes are located around Houston.
 
-![](resources/Images/top_10_categories/png)
+![](resources/Images/top_10_categories.png)
 
 ![](resources/Images/top_10_roi.png)
 
