@@ -25,9 +25,9 @@
 
 ![Pct Change](resources/Images/top_10_pct_change.png)
 
-![Income Tax](resources/Images/top_10_income_tax.png)
+![Income Tax](resources/Images/top_10_tax.png)
 
-![Cum Pct](resources/Images/top_10_cum_pct_increase.png)
+![Cum Pct](resources/Images/top_10_cum_pct.png)
 
 
 ### Analysis
