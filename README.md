@@ -2,7 +2,7 @@
 
 ## Houston Real Estate Investment Analysis
 
-![](/Resources/Images/heatmap_past/png)
+![](Resources/Images/heatmap_past.png)
 
 ### Objective
 
@@ -21,10 +21,10 @@
 
 - We gathered the top 10 zip codes with an increase over time in price/sqft, amount of permits, changes in percent by listing price and income tax. We've concluded that 77003, 77019 and 77007 should be among our highest returns on investments. 
 
-![](/Resources/Images/top_10_permits/png)
-![](/Resources/Images/top_10_pct_change/png)
-![](/Resources/Images/top_10_income_tax/png)
-![](/Resources/Images/top_10_cum_pct_increase/png)
+![](Resources/Images/top_10_permits.png)
+![](Resources/Images/top_10_pct_change.png)
+![](Resources/Images/top_10_income_tax.png)
+![](Resources/Images/top_10_cum_pct_increase.png)
 
 
 ### Analysis
@@ -35,11 +35,11 @@
 
 - Our analysis disproved our hypothesis. The top 10 zip codes with the best return on your investment is shown below. Along with a heat map of where the zip codes are located around Houston.
 
-![](/Resources/Images/top_10_categories/png)
+![](Resources/Images/top_10_categories/png)
 
-![](/Resources/Images/top_10_roi)/png)
+![](Resources/Images/top_10_roi.png)
 
-![](/Resources/Images/heatmap_roi)/png)
+![](Resources/Images/heatmap_roi.png)
 
 
 ### Conclusion/Ending Thoughts
