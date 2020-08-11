@@ -57,7 +57,7 @@
 
 - We also mainly looked at houses and not any other type of properties. If we included all types of possible properties, that could sway which zip code has the highest return on your investment. 
 
-### Final Though
+### Final Thought
 
 - We seeked out to identify which zip code would have the greatest ROI based on past historical data within Houson. What we created was a Python Notebook that you could use to predict ROI based anywhere in Texas. All you have to do is feed it a zip code and how many miles/kilometers of a radius you want it to search within. 
 
