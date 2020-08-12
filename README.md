@@ -32,7 +32,9 @@
 
 ### Analysis
 
-- We identified the strongest correlation to percent change by zip code.
+- We identified the strongest correlation category to percent change by zip code.
+
+- Using the strongest correlation for each zip code, we then used a linear regression algorithm to predict what the future return on investment would be for a period of 12 months.
 
 - Our analysis disproved our hypothesis. The top 10 zip codes with the best return on your investment is shown below. Along with a heat map of where the zip codes are located around Houston.
 
